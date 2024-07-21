@@ -68,4 +68,4 @@ Indeed, i noticed i need to build responsive websites for more accessibility
 ## Author
 ### **Fernando Cruz Cavina**
 
-[![MyLinkedin](https://cdn-icons-png.flaticon.com/256/174/174857.png)](www.linkedin.com/in/fernando-cruz-cavina-487563303)
+### [MyLinkedln](www.linkedin.com/in/fernando-cruz-cavina-487563303)
