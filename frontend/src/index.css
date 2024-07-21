@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.rdp-root {
+    --rdp-accent-color:#84cc16;
+    --rdp-today-color: #d9f99d;
+
+    --rdp-range_middle-background-color:  #a3e635;
+
+    --rdp-range_start-color:#1a2e05;
+    
+    --rdp-range_end-color:;
+    
+    
+
+    --rdp-range_start-date-background-color:#84cc16;
+    --rdp-range_end-date-background-color:#84cc16;
+}
+
+*{
+    min-width: 0;
+}
+
+input{
+    color-scheme: dark;
+}
