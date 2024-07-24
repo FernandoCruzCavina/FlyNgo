@@ -26,6 +26,11 @@ FlyNgo is a website that helps users schedule their travel and organize activiti
 * Axios
 * Node
 
+### environment
+
+Editor development: VScode
+Database: SQLite
+
 ## If you want to use this application
 
 The first step is follow commands in `Ìnstallation` and then `Development`
