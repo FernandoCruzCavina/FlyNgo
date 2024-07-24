@@ -29,6 +29,7 @@ FlyNgo is a website that helps users schedule their travel and organize activiti
 ### environment
 
 Editor development: VScode
+
 Database: SQLite
 
 ## If you want to use this application
